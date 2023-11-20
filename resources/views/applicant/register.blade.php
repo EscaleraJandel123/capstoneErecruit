@@ -1,4 +1,4 @@
-@include("head");
+ @include("head")
 <body>  
 <main>
     <div class="container">
